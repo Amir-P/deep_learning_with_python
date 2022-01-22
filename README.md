@@ -1,0 +1,2 @@
+# Deep learning with Python
+This repository contains Jupyter notebooks implementing some of the codes from [Deep Learning with Python, 2nd Edition (Manning Publications)](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=keras&a_bid=76564dff) for just learning and experimenting.
